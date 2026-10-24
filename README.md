@@ -1,4 +1,4 @@
-# Projetos 1, 2 e 3 de Analise e Sintese de Algoritmos
+# Analysis and Synthesis of Algorithms Projects
 
 ## P1
 O projeto consiste em desenvolver um algoritmo para descobrir a ordem pela qual efetuar a parentizacao de uma sequencia de modo a obter o resultado pretendido, tendo em conta uma tabela que define operadores binarios sobre inteiros.
