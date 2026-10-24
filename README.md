@@ -1,16 +1,16 @@
 # Analysis and Synthesis of Algorithms Projects
 
 ## P1
-O projeto consiste em desenvolver um algoritmo para descobrir a ordem pela qual efetuar a parentizacao de uma sequencia de modo a obter o resultado pretendido, tendo em conta uma tabela que define operadores binarios sobre inteiros.
+The project consists of developing an algorithm to determine the order in which a sequence of operations should be parenthesized to obtain the desired result, given a table defining binary operators over integers.
 
-Avaliacao: 20/20
+Grade: 20/20
 
 ## P2
-O projeto consiste em desenvolver um algoritmo para calcular o pior caso do numero minimo de mudancas de linha necesssrias para viajar entre quaisquer duas estacoes de metro presentes na rede.
+The project consists of developing an algorithm to calculate the worst-case minimum number of line changes required to travel between any two metro stations in the network.
 
-Avaliacao: 20/20
+Grade: 20/20
 
 ## P3
-O problema consiste na maximizacao da distribuicao de brinquedos, em que cada crianca tem uma lista de brinquedos preferidos e pode receber no maximo 1, cada fabrica produz um tipo de brinquedo e tem um stock maximo, e cada pais tem um maximo de exportacao e um minimo de brinquedos entregues.
+The problem consists of maximizing toy distribution, where each child has a list of preferred toys and can receive at most one toy, each factory produces a specific type of toy and has a maximum stock capacity, and each country has a maximum export limit and a minimum number of toys that must be delivered.
 
-Avaliacao: 20/20
+Grade: 20/20
